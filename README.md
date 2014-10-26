@@ -29,6 +29,7 @@ Outputs:
 **tidy_summary.txt** - Average mean value and average standard deviation value output for each subject and activity. |
 
 Codebook:
+
 | Column              |  Description                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------|
 | **SubjectID** | A unique identifier for the Subject from which the accelerometer data was collected. |
