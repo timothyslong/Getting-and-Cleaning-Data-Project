@@ -28,7 +28,8 @@ Outputs:
 ----
 **tidy_summary.txt** - Average mean value and average standard deviation value output for each subject and activity. |
 
-Codebook:
+tidy_summary.txt Codebook:
+----
 
 | Column              |  Description                                                                                              |
 |---------------------|-----------------------------------------------------------------------------------------------------------|
