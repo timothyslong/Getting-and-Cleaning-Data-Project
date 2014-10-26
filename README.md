@@ -30,12 +30,12 @@ Outputs:
 
 Codebook:
 
-| Column              |  Description                                                                                   |
-|---------------------|-----------------------------------------------------------------------------------------------|
-| **SubjectID** | A unique identifier for the Subject from which the accelerometer data was collected. |
-| **Activity** | The type of activity measured: [LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS] |
-| **Average Mean** | The average of all types of "mean" metrics collected in this activity for this subject. |
-| **Average Stdev** | The average of all the standard deviation metrics collected in this activity for this subject. |
+| Column              |  Description                                                                                              |
+|---------------------|-----------------------------------------------------------------------------------------------------------|
+| **SubjectID**       | A unique identifier for the Subject from which the accelerometer data was collected.                      |
+| **Activity**        | The type of activity measured: [LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS] |
+| **Average Mean**    | The average of all types of "mean" metrics collected in this activity for this subject.                   |
+| **Average Stdev**   | The average of all the standard deviation metrics collected in this activity for this subject.            |
 
 
 ************
